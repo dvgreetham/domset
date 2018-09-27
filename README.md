@@ -1,0 +1,2 @@
+# domset
+alpha (rate) domination
