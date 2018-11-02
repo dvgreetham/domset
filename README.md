@@ -1,2 +1,2 @@
 # domset
-alpha (rate) domination
+minimum weight total positive influence dominating set
